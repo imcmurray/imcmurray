@@ -38,10 +38,4 @@
   <a href="https://claude.ai/">
     <img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">
   </a>
-  <a href="https://github.com/omacom/aether">
-    <img width="30" height="30" alt="Aether" src="https://raw.githubusercontent.com/omacom/aether/main/icon.png">
-  </a>
-  <a href="https://github.com/imbypass/omarchy-theme-hook">
-    <img height="40" alt="Theme Hook" src="https://raw.githubusercontent.com/imbypass/omarchy-theme-hook/main/assets/logo.png">
-  </a>
 </p>
