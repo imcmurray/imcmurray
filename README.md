@@ -3,6 +3,9 @@
   <a href="https://archlinux.org/">
     <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white">
   </a>
+  <a href="https://fedoraproject.org/">
+    <img alt="Fedora" src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white">
+  </a>
   <a href="https://hypr.land/">
     <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black">
   </a>
@@ -15,6 +18,9 @@
   <a href="https://www.redhat.com/">
     <img alt="Red Hat" src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
   </a>
+  <a href="https://ubuntu.com/">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  </a>
   <br><br>
   <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
@@ -22,6 +28,9 @@
   </a>
   <a href="https://go.dev/">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
   <a href="https://www.json.org/">
     <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
@@ -39,10 +48,39 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   </a>
   <br><br>
-  <!-- Tools / platforms -->
+  <!-- Infra -->
+  <a href="https://www.ansible.com/">
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-1A1918?style=for-the-badge&logo=ansible&logoColor=white">
+  </a>
+  <a href="https://httpd.apache.org/">
+    <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
+  </a>
   <a href="https://couchdb.apache.org/">
     <img alt="CouchDB" src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white">
   </a>
+  <a href="https://www.ibm.com/products/informix">
+    <img alt="Informix" src="https://img.shields.io/badge/Informix-054ADA?style=for-the-badge&logo=ibm&logoColor=white">
+  </a>
+  <a href="https://nginx.org/">
+    <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  </a>
+  <a href="https://www.proxmox.com/">
+    <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+  </a>
+  <a href="https://www.qemu.org/">
+    <img alt="QEMU" src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white">
+  </a>
+  <a href="https://railway.app/">
+    <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
+  </a>
+  <a href="https://www.vmware.com/">
+    <img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white">
+  </a>
+  <a href="https://www.asterisk.org/">
+    <img alt="VoIP" src="https://img.shields.io/badge/VoIP-F68F1E?style=for-the-badge&logo=asterisk&logoColor=white">
+  </a>
+  <br><br>
+  <!-- Apps -->
   <a href="https://www.drupal.org/">
     <img alt="Drupal" src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white">
   </a>
@@ -52,20 +90,14 @@
   <a href="https://gitlab.com/">
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white">
   </a>
-  <a href="https://www.ibm.com/products/informix">
-    <img alt="Informix" src="https://img.shields.io/badge/Informix-054ADA?style=for-the-badge&logo=ibm&logoColor=white">
-  </a>
-  <a href="https://railway.app/">
-    <img alt="Railway" src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white">
+  <a href="https://obsidian.md/">
+    <img alt="Obsidian" src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white">
   </a>
   <a href="https://v2.tauri.app/">
     <img alt="Tauri" src="https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white&logoSize=auto">
   </a>
   <a href="https://www.vim.org/">
     <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white">
-  </a>
-  <a href="https://www.asterisk.org/">
-    <img alt="VoIP" src="https://img.shields.io/badge/VoIP-F68F1E?style=for-the-badge&logo=asterisk&logoColor=white">
   </a>
   <a href="https://code.visualstudio.com/">
     <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
