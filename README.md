@@ -23,11 +23,17 @@
   </a>
   <br><br>
   <!-- Languages -->
+  <a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
   <a href="https://go.dev/">
     <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -55,8 +61,14 @@
   <a href="https://httpd.apache.org/">
     <img alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white">
   </a>
+  <a href="https://www.cloudflare.com/">
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
+  </a>
   <a href="https://couchdb.apache.org/">
     <img alt="CouchDB" src="https://img.shields.io/badge/CouchDB-E42528?style=for-the-badge&logo=apachecouchdb&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   </a>
   <a href="https://www.ibm.com/products/informix">
     <img alt="Informix" src="https://img.shields.io/badge/Informix-054ADA?style=for-the-badge&logo=ibm&logoColor=white">
