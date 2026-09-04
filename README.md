@@ -126,3 +126,6 @@
     <img alt="Grok" src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
 </p>
+
+Linux desktop tinkerer. Rust/Tauri apps, Omarchy/Hyprland tooling,
+and a few too many HTML music/video experiments.
