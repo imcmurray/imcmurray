@@ -1,3 +1,7 @@
+# Ian
+
+**Salt Lake City. Linux holdout. Still convinced the desktop is a finishable project.**
+
 <p align="center">
   <!-- OS / desktop -->
   <a href="https://archlinux.org/">
@@ -127,5 +131,24 @@
   </a>
 </p>
 
-Linux desktop tinkerer. Rust/Tauri apps, Omarchy/Hyprland tooling,
-and a few too many HTML music/video experiments.
+My daily driver is an HP ProDesk 600 G3 - a beige office box that was never meant to have a life this interesting. It runs Arch. It has an RTX 3050 in a slot that wasn't asking for one. Getting the NVIDIA modules to stop fighting each other cost me a custom systemd boot service and an evening I'd like back, and I'd do it again.
+
+### What I build
+
+Small tools that do one job. Editors, vaults, overlays, the unglamorous utilities nobody writes a launch post about. Also a zero-trust tunnel into my own house that opens on a single packet and is otherwise invisible, because port forwarding is for people who trust the internet.
+
+### Where I stand
+
+Local, offline, doesn't phone home. I run my own models on my own silicon. AI is a collaborator, not the product - I build with it constantly and keep a guardrail between it and anything I wouldn't paste into a browser.
+
+A few decades of keeping systems upright have left me with strong opinions about backups and a very low tolerance for software that requires an account.
+
+### Elsewhere on this profile
+
+- **Rinse Repeat** - a parametric typeface family, drawn from scratch in Python with fontTools.
+- **Secular Songs** - a catalog of cosmic-humanist tracks about our small blue dot.
+- **The pipeline** that renders them, because doing it by hand twice was one time too many.
+
+---
+
+*Off the clock: a Dutch Shepherd named Freya, and coffee taken more seriously than strictly necessary.*
