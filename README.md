@@ -137,6 +137,8 @@ My daily driver is an HP ProDesk 600 G3 - a beige office box that was never mean
 
 Small tools that do one job. Editors, vaults, overlays, the unglamorous utilities nobody writes a launch post about. Also a zero-trust tunnel into my own house that opens on a single packet and is otherwise invisible, because port forwarding is for people who trust the internet.
 
+The Omarchy ones live [here](https://plugins.omarchy.org/index.html?author=imcmurray).
+
 ### Where I stand
 
 Local, offline, doesn't phone home. I run my own models on my own silicon. AI is a collaborator, not the product - I build with it constantly and keep a guardrail between it and anything I wouldn't paste into a browser.
