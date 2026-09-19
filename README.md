@@ -19,6 +19,9 @@
   <a href="https://omarchy.org/">
     <img alt="Omarchy" src="https://img.shields.io/badge/Omarchy-222222?style=for-the-badge&logo=omarchy&logoColor=9ECE6A">
   </a>
+  <a href="https://www.raspberrypi.com/">
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white">
+  </a>
   <a href="https://www.redhat.com/">
     <img alt="Red Hat" src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
   </a>
